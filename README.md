@@ -14,7 +14,7 @@
 <a href="https://colab.research.google.com/drive/1U9XDvxDazY-RbyZqpYReMHzc4Ihx0hAA#scrollTo=HNboFma3atHg" target="_blank">
   <button style="background-color:#F9AB00; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:16px; cursor:pointer; font-weight:bold; display:flex; align-items:center; gap:10px;">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" style="width:20px; height:20px;">
-    Открыть Notebook
+    Открыть Colab
   </button>
 </a>
 
