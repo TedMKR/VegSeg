@@ -11,12 +11,11 @@
 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.16-orange.svg)
 ![Keras](https://img.shields.io/badge/keras-3.0-red.svg)
 
-<a href="https://colab.research.google.com/drive/1U9XDvxDazY-RbyZqpYReMHzc4Ihx0hAA#scrollTo=HNboFma3atHg" target="_blank">
-  <button style="background-color:#F9AB00; color:white; padding:12px 24px; border:none; border-radius:6px; font-size:16px; cursor:pointer; font-weight:bold; display:flex; align-items:center; gap:10px;">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Colab" style="width:20px; height:20px;">
-    Открыть Colab
-  </button>
-</a>
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1U9XDvxDazY-RbyZqpYReMHzc4Ihx0hAA#scrollTo=HNboFma3atHg" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Открыть%20в%20Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Открыть в Google Colab" />
+  </a>
+</p>
 
 ## ✨ Возможности
 
